@@ -1,2 +1,3 @@
 # YOLO-and-Faster-R-CNN-for-Object-Detection.
 YOLO (You Only Look Once) and Faster R-CNN are popular object detection algorithms. 
+Popular object detection techniques are Faster R-CNN and YOLO (You Only Look Once). YOLO is a fast but less accurate single-stage detector that splits the image into a grid and forecasts bounding boxes and class probabilities for each cell. More accurate but slower than YOLO, Faster R-CNN is a two-stage detector that uses a Region Proposal Network (RPN) to create region proposals first, followed by classifying and fine-tuning the bounding boxes. The choice between the two algorithms relies on the particular application needs. YOLO is faster and Faster R-CNN is more exact. Both algorithms have advantages and disadvantages.
